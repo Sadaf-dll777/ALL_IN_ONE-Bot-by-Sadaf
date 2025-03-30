@@ -125,7 +125,7 @@ module.exports = {
                 pages.push({
                     title: 'Bot Information',
                     description: [
-                        `- **Developer:** GlaceYT`,
+                        `- **Developer:** Sadaf`,
                         `- **Version:** 1.2.1`,
                         `- **Commands Loaded:** ${totalCommandsLoaded}`,
                         `- **Master Commands:** ${masterCount}`,
